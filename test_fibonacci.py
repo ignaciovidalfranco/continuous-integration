@@ -6,5 +6,5 @@ def test_fibonacci():
 	"""
 	
 	import fibonacci as fb
-	assset fb.Fibonacci(10) == 55
-	aasert fb.Fibonacci(5) == 5
+	assert fb.Fibonacci(10) == 55
+	assert fb.Fibonacci(5) == 5
