@@ -3,7 +3,7 @@ import unittest
 class FibTest(unittest.TestCase):
 	
 
-	def test_fibonacci():
+	def test_fibonacci(self):
 		"""
 		We import the fibonacci fibonacci.py
 		and we test the function inside itm Fibonacci(n)
