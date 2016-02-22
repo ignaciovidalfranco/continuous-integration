@@ -5,6 +5,7 @@ def test_fibonacci():
 	against known values
 	"""
 	
-	import fibonacci as fb
+	import fibonacci as fb;
+	
 	assert fb.Fibonacci(10) == 55
 	assert fb.Fibonacci(5) == 5
